@@ -1,16 +1,26 @@
-## Hi there 👋
+## About Me
 
-<!--
-**BozhidarBonev/BozhidarBonev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain security researcher working on private audits, contests and bounties on HackenProof, Sherlock, Cantina & Immunefi
 
-Here are some ideas to get you started:
+* 4+ years of experience as a software developer
+* 1+ years of experience as a blockchain security researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me for private audits, consulting or collaboration on:
+
+* Gmail – [*bozhidarbonev@gmail.com*](mailto:bozhidarbonev@gmail.com)
+* LinkedIn – [*BozhidarBonev*](www.linkedin.com/in/bozhidar-bonev-51b176183)
+* X – [*@BojidarDBonev*](https://x.com/BojidarDBonev)
+
+### Public Audit Contests
+
+| Platform | Protocol | Date | High | Medium | Low | Place | Report |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| HackenProof| [0xMarkets](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) | June '26 | 0 | 0 | 1 | N/A | [Report](https://github.com/hackenproof-public/portfolio/blob/main/audits/0xMarkets%20Final%20Report.pdf) |
+| HackenProof | [CarthaVaults](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) | June '26 | 1 | 1 | 0 | N/A | [Report](github.com/hackenproof-public/portfolio/blob/main/audits/Cartha%20Vault%20Final%20Report.pdf) |
+
+### More details on
+* HackenProof – [*bozhidarbonev*](https://hackenproof.com/hackers/bozhidarbonev)
+* Sherlock - [BozhidarBonev](https://audits.sherlock.xyz/watson/BozhidarBonev)
+
+### Reads
+* Medium - [BozhidarBonev](https://medium.com/@bozhidarbonev)
