@@ -10,6 +10,7 @@ Contact me for private audits, consulting or collaboration on:
 * Gmail – [*bozhidarbonev@gmail.com*](mailto:bozhidarbonev@gmail.com)
 * LinkedIn – [*BozhidarBonev*](www.linkedin.com/in/bozhidar-bonev-51b176183)
 * X – [*@BojidarDBonev*](https://x.com/BojidarDBonev)
+* Discord – bozhidar_51291
 
 ### Public Audit Contests
 
