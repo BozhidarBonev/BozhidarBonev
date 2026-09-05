@@ -17,7 +17,7 @@ Contact me for private audits, consulting or collaboration on:
 | Platform | Protocol | Date | High | Medium | Low | Place | Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | HackenProof| [0xMarkets](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) | June '26 | 0 | 0 | 1 | N/A | [Report](https://github.com/hackenproof-public/portfolio/blob/main/audits/0xMarkets%20Final%20Report.pdf) |
-| HackenProof | [CarthaVaults](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) | June '26 | 1 | 1 | 0 | N/A | [Report](github.com/hackenproof-public/portfolio/blob/main/audits/Cartha%20Vault%20Final%20Report.pdf) |
+| HackenProof | [CarthaVaults](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) | June '26 | 1 | 1 | 0 | N/A | [Report](https://github.com/hackenproof-public/portfolio/blob/main/audits/Cartha%20Vault%20Final%20Report.pdf) |
 
 ### More details on
 * HackenProof – [*bozhidarbonev*](https://hackenproof.com/hackers/bozhidarbonev)
