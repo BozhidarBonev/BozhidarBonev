@@ -8,7 +8,7 @@ Blockchain security researcher working on private audits, contests and bounties 
 Contact me for private audits, consulting or collaboration on:
 
 * Gmail – [*bozhidarbonev@gmail.com*](mailto:bozhidarbonev@gmail.com)
-* LinkedIn – [*BozhidarBonev*](www.linkedin.com/in/bozhidar-bonev-51b176183)
+* LinkedIn – [*BozhidarBonev*](https://www.linkedin.com/in/bozhidar-bonev-51b176183)
 * X – [*@BojidarDBonev*](https://x.com/BojidarDBonev)
 * Discord – [BozhidarBonev](https://discord.com/users/bozhidar_51291)
 
@@ -27,4 +27,5 @@ Contact me for private audits, consulting or collaboration on:
 
 ### Articles
 * Medium Account - [BozhidarBonev](https://medium.com/@bozhidarbonev)
-*  - Snail On A Slope Series Intro - [Intro](https://medium.com/@bozhidarbonev/snail-on-a-slope-1633b867ea22)
+   - Snail On A Slope Series Intro - [Intro](https://medium.com/@bozhidarbonev/snail-on-a-slope-1633b867ea22)
+     - SOAS I: The Usual Suspect - [Article #1](https://medium.com/@bozhidarbonev/soas-i-the-usual-suspect-84faedbb9605?postPublishedType=initial)
