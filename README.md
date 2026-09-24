@@ -27,5 +27,7 @@ Contact me for private audits, consulting or collaboration on:
 
 ### Articles
 * Medium Account - [BozhidarBonev](https://medium.com/@bozhidarbonev)
-   - Snail On A Slope Series Intro - [Intro](https://medium.com/@bozhidarbonev/snail-on-a-slope-1633b867ea22)
-     - SOAS I: The Usual Suspect - [Article #1](https://medium.com/@bozhidarbonev/soas-i-the-usual-suspect-84faedbb9605?postPublishedType=initial)
+* Publication - [CoinsBench](https://coinsbench.com/)
+   - Snail On A Slope Series Intro - [Intro](https://coinsbench.com/soas-i-the-usual-suspect-84faedbb9605)
+     - SOAS I: The Usual Suspect - [Article #1](https://coinsbench.com/snail-on-a-slope-1633b867ea22)
+     - SOAS II: Reentrancy Guard as a Weapon - [Article #2](https://coinsbench.com/soas-ii-reentrancy-guard-as-a-weapon-f7313cf6ee79)
