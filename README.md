@@ -31,3 +31,5 @@ Contact me for private audits, consulting or collaboration on:
    - Snail On A Slope Series Intro - [Intro](https://coinsbench.com/soas-i-the-usual-suspect-84faedbb9605)
      - SOAS I: The Usual Suspect - [Article #1](https://coinsbench.com/snail-on-a-slope-1633b867ea22)
      - SOAS II: Reentrancy Guard as a Weapon - [Article #2](https://coinsbench.com/soas-ii-reentrancy-guard-as-a-weapon-f7313cf6ee79)
+     - SOAS III — Hedge Sandwich with Two Signed Prices: Part I - [Article #3](https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-i-193791b1a149)
+     - SOAS III — Hedge Sandwich with Two Signed Prices: Part II - [Article #4](https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-ii-6f93c464a2ab)
