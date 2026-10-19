@@ -33,3 +33,4 @@ Contact me for private audits, consulting or collaboration on:
      - SOAS II: Reentrancy Guard as a Weapon - [Article #2](https://coinsbench.com/soas-ii-reentrancy-guard-as-a-weapon-f7313cf6ee79)
      - SOAS III — Hedge Sandwich with Two Signed Prices: Part I - [Article #3](https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-i-193791b1a149)
      - SOAS III — Hedge Sandwich with Two Signed Prices: Part II - [Article #4](https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-ii-6f93c464a2ab)
+     - SOAS IV — Traffic On The Path To The Financial Forest - [Article #5](https://medium.com/coinsbench/soas-iv-traffic-on-the-path-to-the-financial-forest-7bbcbe1747b8)
