@@ -34,3 +34,4 @@ Contact me for private audits, consulting or collaboration on:
      - SOAS III — Hedge Sandwich with Two Signed Prices: Part I - [Article #3](https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-i-193791b1a149)
      - SOAS III — Hedge Sandwich with Two Signed Prices: Part II - [Article #4](https://coinsbench.com/soas-iii-hedge-sandwich-with-two-signed-prices-part-ii-6f93c464a2ab)
      - SOAS IV — Traffic On The Path To The Financial Forest - [Article #5](https://medium.com/coinsbench/soas-iv-traffic-on-the-path-to-the-financial-forest-7bbcbe1747b8)
+     - SOAS V — 100 000 Chickens vs 1 T-Rex - [Article #6](https://medium.com/coinsbench/soas-v-100-000-chickens-vs-1-t-rex-8a98ee588ef9)
