@@ -16,6 +16,7 @@ Contact me for private audits, consulting or collaboration on:
 
 | Platform | Protocol | Date | Critical | High | Medium | Low | Place | Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| HackenProof| [RAIN-USDR](https://hackenproof.com/audit-programs/rain-usdr-smart-contract-audit-contest-sept-2026) | October '26 | 0 | 2 | 1 | 0| N/A | N/A |
 | HackenProof| [Zendex SC](https://hackenproof.com/audit-programs/zendex-sc-dualdefense-audit) | September '26 | 2 | 0 | 1 | 1 | N/A | N/A |
 | HackenProof| [DatamineNetwork](https://hackenproof.com/audit-programs/datamine-network-sc-dualdefense-audit) | August '26 | 1 | 0 | 0 | 0 | N/A | N/A |
 | HackenProof| [0xMarkets](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) | June '26 | 0 | 0 | 0 | 1 | N/A | [Report](https://github.com/hackenproof-public/portfolio/blob/main/audits/0xMarkets%20Final%20Report.pdf) |
