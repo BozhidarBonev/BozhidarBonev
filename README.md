@@ -25,6 +25,7 @@ Contact me for private audits, consulting or collaboration on:
 ### More details on
 * HackenProof – [*bozhidarbonev*](https://hackenproof.com/hackers/bozhidarbonev)
 * Sherlock - [BozhidarBonev](https://audits.sherlock.xyz/watson/BozhidarBonev)
+* Cantina - [BozhidarBonev](https://cantina.xyz/u/BozhidarBonev)
 
 ### Articles
 * Medium Account - [BozhidarBonev](https://medium.com/@bozhidarbonev)
