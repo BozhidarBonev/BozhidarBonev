@@ -3,7 +3,7 @@
 Blockchain security researcher working on private audits, contests and bounties on HackenProof, Sherlock, Cantina & Immunefi
 
 * 4+ years of experience as a software developer
-* 1+ years of experience as a blockchain security researcher
+* 1 year of experience as a blockchain security researcher
 
 Contact me for private audits, consulting or collaboration on:
 
